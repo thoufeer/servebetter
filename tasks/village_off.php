@@ -45,30 +45,42 @@
 								  <th>Username</th>
 								  <th>Date registered</th>
 								  <th>Service Sought</th>
-								  <th>Duration</th>
-								  <th>Fee</th>
+								  <th>Deadline</th>
+								  <th>Action</th>
 							  </tr>
 						  </thead>   
 						  <tbody>
-
+						  	
 							<tr>
 								<td>Dennis K</td>
-								<td class="center">2016/11/01</td>
+								<td class="center">2016/11/10</td>
 								<td class="center">Income Certificate</td>
 								<td class="center">
-									<span class="label label-success">7 days</span>
+									<span class="label label-success">2016/11/19</span>
 								</td>
 								<td class="center">
-									500
+									Approved
 								</td>
 							</tr>
 
-							
+							<tr>
+								<td>Sudhakaran R</td>
+								<td class="center">2016/11/15</td>
+								<td class="center">Nativity Certificate</td>
+								<td class="center">
+									<span class="label label-success">2016/11/25</span>
+								</td>
+								<td class="center">
+									Approved
+								</td>
+							</tr>
+
 							
 						  </tbody>
 					  </table>            
         </div>
     </div>
+</div>
 </div>
 
 <div class="footer">
