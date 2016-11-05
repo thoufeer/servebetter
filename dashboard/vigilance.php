@@ -52,8 +52,13 @@
                     </a>
                     <a class="col-lg-2" id="four">
                         <img src=""/>
-                        <p>Revise Deadline</p>
+                        <p>Under Surveillance</p>
                         <span class="badge">13</span>
+                    </a>
+                    <a class="col-lg-2" id="two">
+                        <img src=""/>
+                        <p>Pending Investigation</p>
+                        <span class="badge">46</span>
                     </a>
                     <a class="col-lg-2" id="three">
                         <img src=""/>

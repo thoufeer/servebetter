@@ -47,23 +47,23 @@
                 <div class="categ">
                     <a class="col-lg-2" id="one">
                         <img src=""/>
-                        <p>Delayed services</p>
+                        <p>Request Status</p>
                         <span class="badge">237</span>
                     </a>
                     <a class="col-lg-2" id="four">
                         <img src=""/>
-                        <p>Revise Deadline</p>
+                        <p>Service Details</p>
                         <span class="badge">13</span>
+                    </a>
+                    <a class="col-lg-2" id="two">
+                        <img src=""/>
+                        <p>Inbox</p>
+                        <span class="badge">46</span>
                     </a>
                     <a class="col-lg-2" id="three">
                         <img src=""/>
-                        <p>Reports Received</p>
+                        <p>Account</p>
                         <span class="badge">13</span>
-                    </a>
-                    <a class="col-lg-2" id="six">
-                        <img src=""/>
-                        <p>Inbox</p>
-                        <span class="badge">88</span>
                     </a>
                 </div>
             </div>

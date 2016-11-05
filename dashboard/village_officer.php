@@ -46,23 +46,33 @@
             <div class="col-lg-12">
                 <div class="categ">
                     <a class="col-lg-2" id="one">
-                        <img src=""/>
-                        <p>Delayed services</p>
+                        <p>Service Requests</p>
+                        <img src="../images/req.png" style="width:90px"/>
                         <span class="badge">237</span>
                     </a>
-                    <a class="col-lg-2" id="four">
-                        <img src=""/>
-                        <p>Revise Deadline</p>
-                        <span class="badge">13</span>
+                    <a class="col-lg-2" id="two">
+                        <p>Pending Services</p>
+                        <img src="../images/pendi.png" style="width:100px"/>
+                        <span class="badge">46</span>
                     </a>
                     <a class="col-lg-2" id="three">
-                        <img src=""/>
-                        <p>Reports Received</p>
+                        <p>Completed Services</p>
+                        <img src="../images/compl.png" style="width:80px"/>
                         <span class="badge">13</span>
                     </a>
+                    <a class="col-lg-2" id="four">
+                        <p>Rejected Services</p>
+                        <img src="../images/reject.png" style="width:80px"/>
+                        <span class="badge">13</span>
+                    </a>
+                    <a class="col-lg-2" id="five">
+                        <p>Notifications</p>
+                        <img src="../images/noti.png" style="width:100px"/>
+                        <span class="badge">88</span>
+                    </a>
                     <a class="col-lg-2" id="six">
-                        <img src=""/>
                         <p>Inbox</p>
+                        <img src="../images/inbox.png" style="width:90px"/>
                         <span class="badge">88</span>
                     </a>
                 </div>
